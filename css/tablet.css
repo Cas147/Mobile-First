@@ -1,0 +1,20 @@
+.main-slaider-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+.product-cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+
+}
+
+.plan-container--slider{
+    justify-content: center;
+    overflow-x: hidden;
+    padding-bottom: 30px;
+}
